@@ -1,0 +1,3 @@
+Here should be an image
+
+image::../images/image.png[""850, align=center]

@@ -1,0 +1,12 @@
+{
+  "name": "vite-adoc-test",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@rollup/pluginutils": "4.1.0",
+    "rollup-plugin-asciidoc": "1.0.3",
+    "vite": "2.0.1"
+  }
+}
